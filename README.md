@@ -1,2 +1,2 @@
 # Agendatas
-Agenda Events Dates Management Service
+Agenda Dates Events Management Service
